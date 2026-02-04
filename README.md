@@ -1,4 +1,4 @@
-# Photometric Classification of Tidal Disruption Events for LSST
+# Photometric Classification of Tidal Disruption Events for Legacy Survey of Space and Time
 
 ## Introduction
 This repository contains a machine learning pipeline designed to identify Tidal Disruption Events (TDEs) within the LSST (Legacy Survey of 
