@@ -1,7 +1,7 @@
 # Photometric Classification of Tidal Disruption Events for Legacy Survey of Space and Time
 
 ## Introduction
-*This is a fork of the main project for continued development after the kaggle competition is over. Pinned in my profile is the version of the project that we finished in time for the competition, if you are interested.*
+*This is a fork of the main project for continued development after the kaggle competition was over. Pinned in my profile is the version of the project that we finished in time for the competition, if you are interested.*
 
 This repository contains a machine learning pipeline built to identify Tidal Disruption Events (TDEs) within the LSST (Legacy Survey of 
 Space and Time) data set. TDEs are rare, high-energy transients occurring when a star is disrupted by a supermassive black hole. 
