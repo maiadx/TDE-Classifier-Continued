@@ -3,7 +3,7 @@
 ## Introduction
 *This is a fork of the main project for continued development after the kaggle competition was over. Pinned in my profile is the version of the project that we finished in time for the competition, if you are interested.* 
 
-This fork aims to further improve upon the work done in the original project by supplanting the specialist models with newer ones to achieve maybe 2-3% higher accuracy.
+This fork aims to further improve upon the work done in the original project by supplanting the specialist models in our ensemble with newer ones to achieve maybe 1-3% higher F1 score.
 
 This repository contains a machine learning pipeline built to identify Tidal Disruption Events (TDEs) within the LSST (Legacy Survey of 
 Space and Time) data set. TDEs are rare, high-energy transients occurring when a star is disrupted by a supermassive black hole. 
