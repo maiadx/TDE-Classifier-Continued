@@ -7,7 +7,7 @@ Distinguishing them from the vast background of supernovae and active galactic n
 leverages specific astrophysical signatures- namely, their unique color evolution, thermal stability, and power-law decay rate.
 
 Our approach utilizes a hybrid "Mixture of Experts" ensemble that combines gradient boosting (CatBoost) with non-linear support models 
-(MLP and K-Nearest Neighbors), achieving high precision.
+(MLP and K-Nearest Neighbors), achieving an F1 score of 0.7+.
 
 The version of our project that replicates our winning submission for this Kaggle Competition: 
 https://github.com/maymeridian/Tidal-Disruption-Classification/tree/competition_winner
